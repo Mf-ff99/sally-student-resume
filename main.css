@@ -1,0 +1,46 @@
+#application-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.everything {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+    font-size: 3rem;
+}
+
+img {
+    height: 20vh;
+}
+
+main {
+    width: 80%;
+    font-size: 1.5rem;
+}
+
+#Education {
+    background-color: navy;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#Contact-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+address {
+    font-size: 1rem;
+}
+
